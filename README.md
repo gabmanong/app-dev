@@ -18,4 +18,9 @@ My first repository
 - 'code'
 - ---
 [Elms_Profile](https://elms.sti.edu/my_profile)
-![One Piece](05LAB_Manong_01.jpg)
+![One Piece](https://user-images.githubusercontent.com/119735538/205440188-7d08f211-0911-488e-bae3-11696bc651f9.jpg)
+![Black Adam](https://user-images.githubusercontent.com/119735538/205440197-fc8d2bbc-2b40-4cd4-82cd-b700197c3886.jpg)
+![Chainsaw Man](https://user-images.githubusercontent.com/119735538/205440001-e3be2002-c7fd-4f1a-9bd0-7b089f822f97.jpg)
+![Spy x Family](https://user-images.githubusercontent.com/119735538/205440249-92218e6d-0d52-4ab4-9b24-3d1209da1599.jpg)
+
+
